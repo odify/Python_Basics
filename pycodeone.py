@@ -1,4 +1,4 @@
-# Python-Basics-19.05.2020
+# Python-Basics-18.05.2020
 
 print("Hello, Whats your name?")
 
@@ -26,4 +26,4 @@ print("------------")
 
 print("Hello World, It was my first python code that I learned here")
 
-print("Stay home and ..........(Y) ")
+print("Stay home and ......GoodLuck ")
