@@ -1,4 +1,4 @@
-# 4.pynamegen.py
+# CHECKOUT YOUR BLACK HAT NAME =)
 
 import random
 
@@ -20,4 +20,4 @@ print("Your name is:")
 decorator = decor(username)
 decorator()
 
-# CHECKOUT YOUR BLACK HAT NAME =)
+
