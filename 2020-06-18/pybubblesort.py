@@ -36,4 +36,4 @@ def bubble_sort(x):
 func_time = timeit.default_timer()
 bubble_sort(lst1)
 
-print('Time:\n',timeit.default_timer() - func_time)
+# print('Time:\n',timeit.default_timer() - func_time)
